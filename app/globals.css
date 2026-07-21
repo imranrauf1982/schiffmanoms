@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #1e40af;
+  --secondary: #3b82f6;
+  --accent: #10b981;
+  --dark: #111827;
+  --light: #f8fafc;
+}
+
+body {
+  font-family: 'Inter', system_ui, sans-serif;
+}
+
+.medical-header {
+  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+}
